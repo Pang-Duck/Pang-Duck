@@ -42,4 +42,8 @@ Here are some ideas to get you started:
         /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PangDuck&layout=compact&bg_color=180,000000,&title_color=000000&text_color=000000"
           /> </div> 
     </div>
-    
+
+[![Pang-Duck's GitHub stats](https://github-readme-stats.vercel.app/api?username=pang-duck)](https://github.com/anuraghazra/github-readme-stats)
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pang-duck&layout=compact)

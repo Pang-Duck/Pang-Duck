@@ -43,7 +43,7 @@ Here are some ideas to get you started:
           /> </div> 
     </div>
 
-[![Pang-Duck's GitHub stats](https://github-readme-stats.vercel.app/api?username=pang-duck)](https://github.com/anuraghazra/github-readme-stats)
+[![Pang-Duck's GitHub stats](https://github-readme-stats.vercel.app/api?username=PangDuck)](https://github.com/anuraghazra/github-readme-stats)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pang-duck&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PangDuck&layout=compact)

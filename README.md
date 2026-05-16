@@ -45,15 +45,11 @@
 ## 🏅 GitHub Stats
 
 <div align="center">
-
-  <img src="https://github-readme-stats-one.vercel.app/api?username=Pang-Duck&show_icons=true&count_private=true&theme=monokai" alt="Pang-Duck's GitHub stats" />
-  <br>
-  
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pang-Duck&theme=monokai&hide_border=true" />
-  <br>
-
-  <img src="https://github-readme-stats-one.vercel.app/api/top-langs/?username=Pang-Duck&langs_count=10&theme=monokai&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats-one.vercel.app/api?username=Pang-Duck&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" />
+  <br><br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pang-Duck&theme=tokyonight&hide_border=true" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github-readme-stats-one.vercel.app/api/top-langs/?username=Pang-Duck&langs_count=10&theme=tokyonight&layout=compact&border_color=1a1b26" />
 </div>
 
 ---
